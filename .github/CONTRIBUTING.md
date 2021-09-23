@@ -28,7 +28,7 @@ Read this page before reporting a bug. If you ignore these directions, your repo
 ### Before you report
 
 **Has it already been reported?**  
-Check the [issue tracker](../issues) and the [Known issues](../wiki/Known-Issues) to see if the problem has already been reported. If so, see if you can contribute additional information, without adding a new issue. 
+Check the [issue tracker](/issues) and the [Known issues](/wiki/Known-Issues) to see if the problem has already been reported. If so, see if you can contribute additional information, without adding a new issue. 
 If you're not sure if your issue is related, comment on the existing report first.
 
 **Is it intended behavior? / Are you doing it right?**  
