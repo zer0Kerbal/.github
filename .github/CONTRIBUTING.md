@@ -23,7 +23,7 @@ For all effects, that push request is licensed under the license of the target r
 ). 
 Under GitHub Terms of Service, all pull requests are licensed under the target repository license, unless different agreement is previously reached.
 
-![](https://img.shields.io/endpoint?url=../../../json/license.json)
+[License](../../../LICENSE)
 
 ## Read this page before reporting a bug. If you ignore these directions, your report may be ignored.
 
