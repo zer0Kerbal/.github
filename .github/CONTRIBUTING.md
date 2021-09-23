@@ -19,16 +19,18 @@ Start reading our code and you'll get the hang of it. We optimize for readabilit
     - Also for the CDN, always use cwd-relative paths rather than root-relative paths in image URLs in any CSS. So instead of url('/images/blah.gif'), use url('../images/blah.gif').
 
 # All submissions become subject to this repository's [LICENSE](Under GitHub ToS, the pull request is licensed under the target repository license, unless different agreement is previously reached.
-For all effects, that push request is licensed under the MIT.
+For all effects, that push request is licensed under the license of the target repositiory license.
 ). 
 Under GitHub Terms of Service, all pull requests are licensed under the target repository license, unless different agreement is previously reached.
 
-Read this page before reporting a bug. If you ignore these directions, your report may be ignored.
+![](https://img.shields.io/endpoint?url=../../../json/license.json)
+
+## Read this page before reporting a bug. If you ignore these directions, your report may be ignored.
 
 ### Before you report
 
 **Has it already been reported?**  
-Check the [issue tracker](../../../issues) and the [Known issues]((../../../wiki/Known-Issues) to see if the problem has already been reported. If so, see if you can contribute additional information, without adding a new issue. 
+Check the [issue tracker](../../../issues) and the [Known issues](../../../wiki/Known-Issues) to see if the problem has already been reported. If so, see if you can contribute additional information, without adding a new issue. 
 If you're not sure if your issue is related, comment on the existing report first.
 
 **Is it intended behavior? / Are you doing it right?**  
