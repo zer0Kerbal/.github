@@ -9,3 +9,12 @@
 - [ ] I have updated the documentation accordingly.
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.
+
+
+<!--
+License
+CC0
+
+To the extent possible under law, Steve Mao has waived all copyright and related or neighboring rights to this work.
+https://github.com/stevemao/github-issue-templates
+-->
