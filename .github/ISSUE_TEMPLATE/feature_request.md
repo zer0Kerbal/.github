@@ -1,9 +1,9 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: 🚀Feature request
+about: I have a suggestion (and may want to implement it 🙂)!
 title: ''
-labels: enhancement
-assignees: ''
+labels: i: enhancement, i: needs triage
+assignees: 'zer0Kerbal'
 
 ---
 
