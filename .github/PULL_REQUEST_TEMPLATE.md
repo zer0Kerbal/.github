@@ -9,11 +9,12 @@
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.
 
-### All Submissions:
+### All Submissions: 🚨
 
 * [ ] Have you followed the guidelines in our Contributing document?
-- [ ] I have read the **CONTRIBUTING** document.
+* [ ] I have read the **CONTRIBUTING** document.
 * [ ] Have you checked to ensure there aren't other open [Pull Requests](../../../pulls) for the same update/change?
+* [ ] The commit message follows our guidelines
 
 <!-- You can erase any parts of this template not applicable to your Pull Request. -->
 
@@ -28,7 +29,7 @@
 * [ ] Have you written new tests for your core changes, as applicable?
 * [ ] Have you successfully ran tests with your changes locally?
 
-
+💔Thank you!
 
 <!--
 License
