@@ -1,9 +1,9 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: 🐛Bug report 🐞
+about: If something isn't working as expected 🤔.
 title: ''
-labels: bug, triage
-assignees: ''
+labels: i: bug, i: needs triage
+assignees: 'zer0Kerbal'
 
 ---
 
@@ -23,16 +23,16 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**Logs**
+If applicable, zip/rar/7zip the following and attach them to this report (drag-n-drop)
+- KSP.log from KSP folder
+- all from KSP/Logs
+- GameData/ModuleManager.ConfigCache
+
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ - KSP Version [e.g. 1.12.2, 1.73]
+ - DLC's installed [e.g. Making History, Breaking Ground]
 
 **Additional context**
 Add any other context about the problem here.
