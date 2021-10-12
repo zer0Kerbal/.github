@@ -15,16 +15,13 @@ Start reading our code and you'll get the hang of it. We optimize for readabilit
     - We indent using tabs (or if must, 4 spaces)
     - We ALWAYS put spaces after list items and method parameters ([1, 2, 3], not [1,2,3]), around operators (x += 1, not x+=1), and around hash arrows.
     - This is open source software. Consider the people who will read your code, and make it look nice for them. It's sort of like driving a car: Perhaps you love doing donuts when you're alone, but with passengers the goal is to make the ride as smooth as possible.
-    -So that we can consistently serve images from the CDN, always use image_path or image_tag when referring to images. Never prepend "/images/" when using image_path or image_tag.
-    - Also for the CDN, always use cwd-relative paths rather than root-relative paths in image URLs in any CSS. So instead of url('/images/blah.gif'), use url('../images/blah.gif').
+    -So that we can consistently serve images from the CDN, always use image_path or image_tag when referring to images. Never prepend "/img/" when using image_path or image_tag.
+    - Also for the CDN, always use cwd-relative paths rather than root-relative paths in image URLs in any CSS. So instead of url('/img/blah.gif'), use url('../img/blah.gif').
 
-# All submissions become subject to this repository's [LICENSE](Under GitHub ToS, the pull request is licensed under the target repository license, unless different agreement is previously reached.
-For all effects, that push request is licensed under the license of the target repositiory license.
-). 
+# All submissions become subject to this repository's [LICENSE](../../../LICENSE) (Under GitHub ToS, the pull request is licensed under the target repository license, unless different agreement is previously reached.
+For all effects, that push request is licensed under the license of the target repositiory [license](../../../LICENSE). 
 Under GitHub Terms of Service, all pull requests are licensed under the target repository license, unless different agreement is previously reached.
-
-[License](../../../LICENSE)
-
+ 
 ## Read this page before reporting a bug. If you ignore these directions, your report may be ignored.
 
 ### Before you report
@@ -53,4 +50,9 @@ Bug reports and feature requests should be filled on the [issue tracker](../issu
 * **One issue per report.** If you have multiple issues, submit multiple reports. Don't lump everything together; it becomes difficult to track disparate issues that way.
 
 If you don't have enough information to file a bug report, you may ask questions on the forum thread. **Do not send me private messages about bugs unless you believe the bug is an exploitable security issue.**
+
+[License]: ../../../LICENSE
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/../../../master/json/license.json
+[CONDUCT]: https://github.com/zer0Kerbal/.github/blob/master/.github/CODE_OF_CONDUCT.md
+[
 
