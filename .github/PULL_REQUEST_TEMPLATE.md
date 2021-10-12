@@ -18,6 +18,8 @@ Explain the **details** for making this change. What existing problem does the p
 
 Put `closes #XXXX` in your comment to auto-close the issue that your PR fixes (if such).
 
+## Pull request checklist:
+- [ ] `CHANGELOG.cfg` was updated, if applicable
 
 ## Types of changes
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
