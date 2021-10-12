@@ -16,7 +16,7 @@ Explain the **details** for making this change. What existing problem does the p
 
 **Closing issues**
 
-Put `closes #XXXX` in your comment to auto-close the issue that your PR fixes (if such).
+Put `closes #XXXX` or `resolves #XXXX` in your comment to auto-close the issue that your PR fixes (if such).
 
 ## Pull request checklist:
 - [ ] `CHANGELOG.cfg` was updated, if applicable
