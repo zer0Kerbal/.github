@@ -5,11 +5,11 @@ labels: ["type: docs", "type: discussion"]
 assignees:
   - zer0Kerbal
 body:
-- type: markdown
-  value: "## Welcome!"
-  attributes:
-    value: |
-      Thanks for taking the time to fill out this Documentation Issue!
+  - type: markdown
+    value: "## Welcome!"
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this Documentation Issue!
   - type: textarea
     attributes:
       label: Which document/file?
