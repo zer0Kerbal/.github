@@ -5,9 +5,15 @@ labels: ["type: docs", "type: discussion"]
 assignees:
   - zer0Kerbal
 body:
+- type: markdown
+  value: "## Welcome!"
+- type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to fill out this Documentation Issue!
   - type: textarea
     attributes:
-      label: which document?
+      label: Which document/file?
       placeholder: Briefly describe what needs to be corrected and why
     validations:
       required: true
