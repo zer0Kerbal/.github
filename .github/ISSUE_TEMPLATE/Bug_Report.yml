@@ -1,5 +1,5 @@
-name: "Bug report 🐛"
-description: Report errors or unexpected behavior
+name: "Bug report🐞 🐛"
+description: Report errors or unexpected behavior🤔
 body:
   - type: markdown
     attributes:
