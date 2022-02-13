@@ -1,3 +1,13 @@
+# Bug_Report.yaml v1.0.0.0
+#
+# CC BY-NC-SA 3.0 Unported 
+#
+# GitHub ISSUE_TEMPLATES
+# by zer0Kerbal
+#
+# created: 13 Feb 2022
+# updated: 
+#
 name: "Bug report 🐛"
 description: Report errors or unexpected behavior🤔
 title: "[Bug 🐞]: "
@@ -47,11 +57,9 @@ body:
         KSP: Version
         Download/Installation: CurseForge/CurseForge App/GitHub clone/ GitHub release .zip/CKAN/SpaceDock
         KSP.log
-        
       render: shell
     validations:
       required: true
-
   - type: dropdown
     id: download
     attributes:
@@ -67,4 +75,3 @@ body:
         - Other (explain below)
     validations:
       required: true
-      
