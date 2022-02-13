@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        "## Welcome!"
+        ## Welcome!
         Thanks for taking the time to fill out this Documentation Issue!
   - type: textarea
     attributes:
