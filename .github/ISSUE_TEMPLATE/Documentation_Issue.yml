@@ -1,7 +1,16 @@
 name: "Documentation Issue 📚"
 description: Report issues in our documentation
-labels: ["Issue-Docs"]
+title: "[Documentation Issue 📚]: "
+labels: ["type: docs", "type: discussion"]
+assignees:
+  - zer0Kerbal
 body:
+  - type: textarea
+    attributes:
+      label: which document?
+      placeholder: Briefly describe what needs to be corrected and why
+    validations:
+      required: true
   - type: textarea
     attributes:
       label: Brief description of your issue
