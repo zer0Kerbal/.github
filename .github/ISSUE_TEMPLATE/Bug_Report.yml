@@ -43,12 +43,28 @@ body:
     attributes:
       label: Environment
       placeholder: |
-        [winget --info]
-        Windows Package Manager version
-        Windows: Windows.Desktop version
-        Package: Microsoft.DesktopAppInstaller version
-
-        Any other software?
+        Mod: Version
+        KSP: Version
+        Download/Installation: CurseForge/CurseForge App/GitHub clone/ GitHub release .zip/CKAN/SpaceDock
+        KSP.log
+        
       render: shell
     validations:
       required: true
+
+  - type: dropdown
+    id: download
+    attributes:
+      label: How did you download and install this?
+      options:
+        - OverWolf/CurseForge App (auto install)
+        - CKAN (auto install with dependencies)
+        - CurseForge (download and manual installation)
+        - SpaceDock (manual install)
+        - GitHub clone (expert manual installation)
+        - GitHub release .zip (advanced manual installation)
+        - Built from source (add-ons only)
+        - Other (explain below)
+    validations:
+      required: true
+      
