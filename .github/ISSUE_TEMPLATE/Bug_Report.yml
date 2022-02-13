@@ -1,5 +1,9 @@
-name: "Bug report🐞 🐛"
+name: "Bug report 🐛"
 description: Report errors or unexpected behavior🤔
+title: "[Bug 🐞]: "
+labels: ["bug"]
+assignees:
+  - zer0Kerbal
 body:
   - type: markdown
     attributes:
