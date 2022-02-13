@@ -6,9 +6,9 @@ assignees:
   - zer0Kerbal
 body:
   - type: markdown
-    value: "## Welcome!"
     attributes:
       value: |
+        "## Welcome!"
         Thanks for taking the time to fill out this Documentation Issue!
   - type: textarea
     attributes:
